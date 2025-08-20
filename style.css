@@ -120,6 +120,7 @@ body {
   gap: 1.2rem;
   list-style-type: none;
   height: auto;
+  justify-content: space-evenly;
 }
 
 /* end of header */
